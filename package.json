@@ -31,8 +31,7 @@
     "mutable-buffer": "*"
   },
   "optionalDependencies": {
-    "get-pixels": "*",
-    "qr-image": "*"
+    "get-pixels": "*"
   },
   "devDependencies": {
     "mocha": "*"
