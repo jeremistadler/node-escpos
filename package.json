@@ -28,9 +28,8 @@
   "homepage": "https://github.com/song940/node-escpos#readme",
   "dependencies": {
     "iconv-lite": "*",
-    "mutable-buffer": "*"
-  },
-  "optionalDependencies": {
+    "mutable-buffer": "*",
+    "qr-image": "*",
     "get-pixels": "*"
   },
   "devDependencies": {
